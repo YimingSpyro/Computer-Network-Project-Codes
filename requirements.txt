@@ -1,0 +1,7 @@
+Flask
+opencv-python
+opencv-contrib-python  
+numpy
+requests
+Pillow
+tk
